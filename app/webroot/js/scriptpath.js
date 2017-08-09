@@ -1,0 +1,1 @@
+var domainbase= window.location.protocol + "//"+window.location.toString().split("//")[1].split("/")[0]+"/";var siteurl=domainbase+"/";var base_url=domainbase+"/";

@@ -1,0 +1,78 @@
+[26-May-2011 04:06:09] PHP Warning:  POST Content-Length of 15162524 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[26-May-2011 04:12:59] PHP Warning:  POST Content-Length of 130217961 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[26-May-2011 04:24:10] PHP Warning:  POST Content-Length of 12030482 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[26-May-2011 04:25:11] PHP Warning:  POST Content-Length of 12030482 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[26-May-2011 05:38:25] PHP Warning:  POST Content-Length of 15162292 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[02-Jun-2011 09:33:41] PHP Warning:  POST Content-Length of 52470473 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[02-Jun-2011 09:35:35] PHP Warning:  POST Content-Length of 52470466 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[21-Jun-2011 11:55:01] PHP Warning:  POST Content-Length of 47580743 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[23-Jun-2011 00:23:15] PHP Warning:  POST Content-Length of 85957994 bytes exceeds the limit of 67108864 bytes in Unknown on line 0
+[23-Jun-2011 01:26:19] PHP Warning:  POST Content-Length of 71631798 bytes exceeds the limit of 67108864 bytes in Unknown on line 0
+[26-Sep-2011 23:30:56] PHP Fatal error:  Call to a member function getLastQuery() on a non-object in /home/hoursign/public_html/app/controllers/orders_controller.php on line 1297
+[28-Sep-2011 23:42:15] PHP Fatal error:  Call to undefined method NewsController::_uploadFile() in /home/hoursign/public_html/app/controllers/news_controller.php on line 72
+[29-Sep-2011 02:30:24] PHP Fatal error:  Call to a member function find() on a non-object in /home/hoursign/public_html/app/controllers/orders_controller.php on line 1217
+[19-Oct-2011 04:59:24] PHP Fatal error:  Class 'Configure' not found in /home/hoursign/public_html/app/webroot/map.php on line 2
+[04-Jun-2016 23:33:02 UTC] PHP Strict Standards:  Redefining already defined constructor for class Object in /home/hoursign/public_html/cake/libs/object.php on line 54
+[04-Jun-2016 23:33:02 UTC] PHP Strict Standards:  Non-static method Configure::getInstance() should not be called statically in /home/hoursign/public_html/cake/bootstrap.php on line 38
+[04-Jun-2016 23:33:50 UTC] PHP Strict Standards:  Redefining already defined constructor for class Object in /home/hoursign/public_html/cake/libs/object.php on line 54
+[04-Jun-2016 23:33:50 UTC] PHP Strict Standards:  Non-static method Configure::getInstance() should not be called statically in /home/hoursign/public_html/cake/bootstrap.php on line 38
+[05-Jun-2016 00:00:40 UTC] PHP Strict Standards:  Redefining already defined constructor for class Object in /home/hoursign/public_html/cake/libs/object.php on line 54
+[05-Jun-2016 00:00:40 UTC] PHP Strict Standards:  Non-static method Configure::getInstance() should not be called statically in /home/hoursign/public_html/cake/bootstrap.php on line 38
+[05-Jun-2016 00:00:41 UTC] PHP Strict Standards:  Redefining already defined constructor for class Object in /home/hoursign/public_html/cake/libs/object.php on line 54
+[05-Jun-2016 00:00:41 UTC] PHP Strict Standards:  Non-static method Configure::getInstance() should not be called statically in /home/hoursign/public_html/cake/bootstrap.php on line 38
+[05-Jun-2016 00:22:19 UTC] PHP Strict Standards:  Redefining already defined constructor for class Object in /home/hoursign/public_html/cake/libs/object.php on line 54
+[05-Jun-2016 00:22:19 UTC] PHP Strict Standards:  Non-static method Configure::getInstance() should not be called statically in /home/hoursign/public_html/cake/bootstrap.php on line 38
+[05-Jun-2016 00:22:33 UTC] PHP Strict Standards:  Redefining already defined constructor for class Object in /home/hoursign/public_html/cake/libs/object.php on line 54
+[05-Jun-2016 00:22:33 UTC] PHP Strict Standards:  Non-static method Configure::getInstance() should not be called statically in /home/hoursign/public_html/cake/bootstrap.php on line 38
+[05-Jun-2016 00:24:07 UTC] PHP Strict Standards:  Redefining already defined constructor for class Object in /home/hoursign/public_html/cake/libs/object.php on line 54
+[05-Jun-2016 00:24:07 UTC] PHP Strict Standards:  Non-static method Configure::getInstance() should not be called statically in /home/hoursign/public_html/cake/bootstrap.php on line 38
+[05-Jun-2016 00:32:13 UTC] PHP Strict Standards:  Redefining already defined constructor for class Object in /home/hoursign/public_html/cake/libs/object.php on line 54
+[05-Jun-2016 00:32:13 UTC] PHP Strict Standards:  Non-static method Configure::getInstance() should not be called statically in /home/hoursign/public_html/cake/bootstrap.php on line 38
+[05-Jun-2016 00:32:58 UTC] PHP Strict Standards:  Redefining already defined constructor for class Object in /home/hoursign/public_html/cake/libs/object.php on line 54
+[05-Jun-2016 00:32:58 UTC] PHP Strict Standards:  Non-static method Configure::getInstance() should not be called statically in /home/hoursign/public_html/cake/bootstrap.php on line 38
+[05-Jun-2016 00:39:22 UTC] PHP Strict Standards:  Redefining already defined constructor for class Object in /home/hoursign/public_html/cake/libs/object.php on line 54
+[05-Jun-2016 00:39:22 UTC] PHP Strict Standards:  Non-static method Configure::getInstance() should not be called statically in /home/hoursign/public_html/cake/bootstrap.php on line 38
+[05-Jun-2016 01:36:41 UTC] PHP Strict Standards:  Redefining already defined constructor for class Object in /home/hoursign/public_html/cake/libs/object.php on line 54
+[05-Jun-2016 01:36:41 UTC] PHP Strict Standards:  Non-static method Configure::getInstance() should not be called statically in /home/hoursign/public_html/cake/bootstrap.php on line 38
+[05-Jun-2016 01:37:37 UTC] PHP Strict Standards:  Redefining already defined constructor for class Object in /home/hoursign/public_html/cake/libs/object.php on line 54
+[05-Jun-2016 01:37:37 UTC] PHP Strict Standards:  Non-static method Configure::getInstance() should not be called statically in /home/hoursign/public_html/cake/bootstrap.php on line 38
+[05-Jun-2016 02:19:26 UTC] PHP Strict Standards:  Redefining already defined constructor for class Object in /home/hoursign/public_html/cake/libs/object.php on line 54
+[05-Jun-2016 02:19:26 UTC] PHP Strict Standards:  Non-static method Configure::getInstance() should not be called statically in /home/hoursign/public_html/cake/bootstrap.php on line 38
+[05-Jun-2016 02:29:30 UTC] PHP Strict Standards:  Redefining already defined constructor for class Object in /home/hoursign/public_html/cake/libs/object.php on line 54
+[05-Jun-2016 02:29:30 UTC] PHP Strict Standards:  Non-static method Configure::getInstance() should not be called statically in /home/hoursign/public_html/cake/bootstrap.php on line 38
+[05-Jun-2016 02:30:07 UTC] PHP Strict Standards:  Redefining already defined constructor for class Object in /home/hoursign/public_html/cake/libs/object.php on line 54
+[05-Jun-2016 02:30:07 UTC] PHP Strict Standards:  Non-static method Configure::getInstance() should not be called statically in /home/hoursign/public_html/cake/bootstrap.php on line 38
+[05-Jun-2016 02:48:41 UTC] PHP Strict Standards:  Redefining already defined constructor for class Object in /home/hoursign/public_html/cake/libs/object.php on line 54
+[05-Jun-2016 02:48:41 UTC] PHP Strict Standards:  Non-static method Configure::getInstance() should not be called statically in /home/hoursign/public_html/cake/bootstrap.php on line 38
+[05-Jun-2016 02:48:41 UTC] PHP Strict Standards:  Redefining already defined constructor for class Object in /home/hoursign/public_html/cake/libs/object.php on line 54
+[05-Jun-2016 02:48:41 UTC] PHP Strict Standards:  Non-static method Configure::getInstance() should not be called statically in /home/hoursign/public_html/cake/bootstrap.php on line 38
+[05-Jun-2016 02:48:43 UTC] PHP Strict Standards:  Redefining already defined constructor for class Object in /home/hoursign/public_html/cake/libs/object.php on line 54
+[05-Jun-2016 02:48:43 UTC] PHP Strict Standards:  Non-static method Configure::getInstance() should not be called statically in /home/hoursign/public_html/cake/bootstrap.php on line 38
+[05-Jun-2016 02:48:43 UTC] PHP Strict Standards:  Redefining already defined constructor for class Object in /home/hoursign/public_html/cake/libs/object.php on line 54
+[05-Jun-2016 02:48:43 UTC] PHP Strict Standards:  Non-static method Configure::getInstance() should not be called statically in /home/hoursign/public_html/cake/bootstrap.php on line 38
+[05-Jun-2016 02:48:46 UTC] PHP Strict Standards:  Redefining already defined constructor for class Object in /home/hoursign/public_html/cake/libs/object.php on line 54
+[05-Jun-2016 02:48:46 UTC] PHP Strict Standards:  Non-static method Configure::getInstance() should not be called statically in /home/hoursign/public_html/cake/bootstrap.php on line 38
+[05-Jun-2016 02:48:47 UTC] PHP Strict Standards:  Redefining already defined constructor for class Object in /home/hoursign/public_html/cake/libs/object.php on line 54
+[05-Jun-2016 02:48:47 UTC] PHP Strict Standards:  Non-static method Configure::getInstance() should not be called statically in /home/hoursign/public_html/cake/bootstrap.php on line 38
+[05-Jun-2016 03:05:57 UTC] PHP Strict Standards:  Redefining already defined constructor for class Object in /home/hoursign/public_html/cake/libs/object.php on line 54
+[05-Jun-2016 03:05:57 UTC] PHP Strict Standards:  Non-static method Configure::getInstance() should not be called statically in /home/hoursign/public_html/cake/bootstrap.php on line 38
+[05-Jun-2016 03:41:30 UTC] PHP Strict Standards:  Redefining already defined constructor for class Object in /home/hoursign/public_html/cake/libs/object.php on line 54
+[05-Jun-2016 03:41:30 UTC] PHP Strict Standards:  Non-static method Configure::getInstance() should not be called statically in /home/hoursign/public_html/cake/bootstrap.php on line 38
+[05-Jun-2016 03:42:35 UTC] PHP Strict Standards:  Redefining already defined constructor for class Object in /home/hoursign/public_html/cake/libs/object.php on line 54
+[05-Jun-2016 03:42:35 UTC] PHP Strict Standards:  Non-static method Configure::getInstance() should not be called statically in /home/hoursign/public_html/cake/bootstrap.php on line 38
+[05-Jun-2016 03:47:05 UTC] PHP Strict Standards:  Redefining already defined constructor for class Object in /home/hoursign/public_html/cake/libs/object.php on line 54
+[05-Jun-2016 03:47:05 UTC] PHP Strict Standards:  Non-static method Configure::getInstance() should not be called statically in /home/hoursign/public_html/cake/bootstrap.php on line 38
+[05-Jun-2016 03:52:40 UTC] PHP Strict Standards:  Redefining already defined constructor for class Object in /home/hoursign/public_html/cake/libs/object.php on line 54
+[05-Jun-2016 03:52:40 UTC] PHP Strict Standards:  Non-static method Configure::getInstance() should not be called statically in /home/hoursign/public_html/cake/bootstrap.php on line 38
+[05-Jun-2016 03:52:43 UTC] PHP Strict Standards:  Redefining already defined constructor for class Object in /home/hoursign/public_html/cake/libs/object.php on line 54
+[05-Jun-2016 03:52:43 UTC] PHP Strict Standards:  Non-static method Configure::getInstance() should not be called statically in /home/hoursign/public_html/cake/bootstrap.php on line 38
+[05-Jun-2016 03:52:52 UTC] PHP Strict Standards:  Redefining already defined constructor for class Object in /home/hoursign/public_html/cake/libs/object.php on line 54
+[05-Jun-2016 03:52:52 UTC] PHP Strict Standards:  Non-static method Configure::getInstance() should not be called statically in /home/hoursign/public_html/cake/bootstrap.php on line 38
+[05-Jun-2016 03:52:58 UTC] PHP Strict Standards:  Redefining already defined constructor for class Object in /home/hoursign/public_html/cake/libs/object.php on line 54
+[05-Jun-2016 03:52:58 UTC] PHP Strict Standards:  Non-static method Configure::getInstance() should not be called statically in /home/hoursign/public_html/cake/bootstrap.php on line 38
+[05-Jun-2016 03:52:59 UTC] PHP Strict Standards:  Redefining already defined constructor for class Object in /home/hoursign/public_html/cake/libs/object.php on line 54
+[05-Jun-2016 03:52:59 UTC] PHP Strict Standards:  Non-static method Configure::getInstance() should not be called statically in /home/hoursign/public_html/cake/bootstrap.php on line 38
+[05-Jun-2016 03:58:13 UTC] PHP Strict Standards:  Redefining already defined constructor for class Object in /home/hoursign/public_html/cake/libs/object.php on line 54
+[05-Jun-2016 03:58:13 UTC] PHP Strict Standards:  Non-static method Configure::getInstance() should not be called statically in /home/hoursign/public_html/cake/bootstrap.php on line 38
+[05-Jun-2016 03:58:14 UTC] PHP Strict Standards:  Redefining already defined constructor for class Object in /home/hoursign/public_html/cake/libs/object.php on line 54
+[05-Jun-2016 03:58:14 UTC] PHP Strict Standards:  Non-static method Configure::getInstance() should not be called statically in /home/hoursign/public_html/cake/bootstrap.php on line 38
